@@ -1,0 +1,10 @@
+{
+  "domain": "mega_mercury_206",
+  "name": "mega_mercury_206",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "version": "0.1.0"
+}
